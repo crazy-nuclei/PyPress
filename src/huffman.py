@@ -1,5 +1,5 @@
 from collections import defaultdict
-from tree import HuffmanTree
+from src.tree import HuffmanTree
 import pickle
 
 class Huffman:

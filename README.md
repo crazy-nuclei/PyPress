@@ -63,3 +63,16 @@ Compression and Decompression: The time complexity of compressing and decompress
 ### random.txt : 21488 bytes
 ### random.bin : 12421 bytes
 
+
+## How to run: 
+### python3 src/pypress.py 
+
+select 1 for compression and give a name for the file, it should be present in the same src folder 
+compressed file is generated in the same folder by the name ["filename" .bin]
+
+select 2 for decompress and give a name for the bin file, it should be present in the same src folder 
+decompressed file is generated with the name decompressed.txt in the same folder 
+
+select 3 to quit 
+
+

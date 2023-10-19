@@ -1,4 +1,4 @@
-from huffman import Huffman
+from src.huffman import Huffman
 
 while(1): 
     num = int(input("Enter 1 to compress, 2 to decompress and 3 to quit: "))
